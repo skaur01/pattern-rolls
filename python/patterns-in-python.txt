@@ -1,0 +1,1 @@
+This folder is collection of different patterns created in python.
